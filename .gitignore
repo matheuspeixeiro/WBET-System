@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/  # Mantenha este, pois é o nome do seu ambiente virtual
+pip-log.txt
+pip-delete-this-arg.txt
+.tox/
+.coverage
+.cache
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# IDEs (PyCharm)
+.idea/
+*.iml
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Dados de Calibração (se for gerado e não precisar ser versionado)
+data/*.json
+data/*.txt
+
+# Arquivos grandes de modelo (se forem baixados e não criados)
+# models/*.dat
+# Se shape_predictor_68_face_landmarks.dat for grande e baixado, descomente a linha acima ou adicione:
+# models/shape_predictor_68_face_landmarks.dat
