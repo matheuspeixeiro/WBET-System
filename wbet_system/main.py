@@ -1,0 +1,2 @@
+a = "oi"
+print (a)
