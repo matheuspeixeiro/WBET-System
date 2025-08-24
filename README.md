@@ -17,7 +17,7 @@ A motivação principal é oferecer uma alternativa acessível para indivíduos 
 
 ## Tecnologias Utilizadas
 
-[cite_start]O projeto é construído principalmente em Python, aproveitando o poder de bibliotecas especializadas em visão computacional e processamento de imagem:
+O projeto é construído principalmente em Python, aproveitando o poder de bibliotecas especializadas em visão computacional e processamento de imagem:
 
 * **Python**: Linguagem de programação principal.
 **OpenCV**: Biblioteca de código aberto para visão computacional, usada para a captura de vídeo da webcam e o processamento de imagens[cite: 419, 432].
